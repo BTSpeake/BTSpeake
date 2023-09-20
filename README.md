@@ -22,7 +22,9 @@ Additionally, I also have experience with both C++ and HTML, which I am actively
 
 ## GitHub Projects 
 At present, most of my projects you will find here are projects developed as tasks submitted for the Software Engineering bootcamp from HyperionDev, for which I was
-sponsored by the UK Department of Education. Some projects have been further adapted to improve my general programming skills. 
+sponsored by the UK Department of Education. Some projects have been further adapted to improve my general programming skills. The remaining projects are personal hobby projects aimed at learning new skills both in programming and science. 
+
+All profesional code bases that I am a developer for are hosted on GitLab (see link above) and are at present un-released. 
   
 
 

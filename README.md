@@ -39,6 +39,7 @@ All profesional code bases that I am a developer for are hosted on **GitLab**:
 
 - [QUEST](https://quest.codes) (unreleased)
 - [QUEST View](https://gitlab.com/Bspeake) (unreleased)
+- [GalvAnalyze](https://gitlab.com/galvanalyze/galvanalyze2) (unreleased)
 - [DL_POLY](https://gitlab.com/ccp5/dl-poly)
 - [DL_VIS](https://gitlab.com/bmgcsc/dlv-v4)
   

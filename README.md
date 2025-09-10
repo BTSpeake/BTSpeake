@@ -37,8 +37,7 @@ Additional software projects which are not based on GitHub can be found here:
 - [DL_POLY](https://gitlab.com/ccp5/dl-poly)
 - [DL_MESO](https://www.ccp5.ac.uk/dl_meso/)
 - [DL_VIS](https://gitlab.com/bmgcsc/dlv-v4)
-- [QUEST](https://quest.codes) 
-- [QUEST View](https://quest.codes) 
+- [QUEST & QUEST View](https://quest.codes)
 <!-- - [GalvAnalyze](https://gitlab.com/galvanalyze/galvanalyze2) (unreleased) -->
 
 
